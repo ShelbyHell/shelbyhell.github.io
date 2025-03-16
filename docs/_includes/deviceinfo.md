@@ -49,7 +49,6 @@
 {% endif %}
 [Telegram support group]({{device.tg}})
 
-{% include donations.md %}
 
 ## Device specifications
 

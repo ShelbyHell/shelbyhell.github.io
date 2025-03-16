@@ -65,4 +65,3 @@ Builds will be updated once a month to merge latest security updates and other c
 [Telegram support group](https://t.me/Exynos9820AOSP)<br>
 Source used in builds can be found at [GitHub](https://github.com/SealsPlayground)
 
-{% include donations.md %}
